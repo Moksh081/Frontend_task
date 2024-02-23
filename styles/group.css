@@ -1,0 +1,82 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 167rem;
+}.group-ix7 {
+  width: 100%;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+}
+.group-ix7 .rectangle-4FH {
+  width: 14rem;
+  height: 14rem;
+  background-color: #f8f9fa;
+  flex-shrink: 0;
+}
+.group-ix7 .rectangle-1RR {
+  width: 14rem;
+  height: 14rem;
+  background-color: #f1f3f5;
+  flex-shrink: 0;
+}
+.group-ix7 .rectangle-xrT {
+  width: 14rem;
+  height: 14rem;
+  background-color: #e9ecef;
+  flex-shrink: 0;
+}
+.group-ix7 .rectangle-XPm {
+  width: 14rem;
+  height: 14rem;
+  background-color: #dee2e6;
+  flex-shrink: 0;
+}
+.group-ix7 .rectangle-5gB {
+  width: 14rem;
+  height: 14rem;
+  background-color: #ced4da;
+  flex-shrink: 0;
+}
+.group-ix7 .rectangle-qQT {
+  width: 14rem;
+  height: 14rem;
+  background-color: #adb5bd;
+  flex-shrink: 0;
+}
+.group-ix7 .rectangle-143 {
+  width: 14rem;
+  height: 14rem;
+  background-color: #868e96;
+  flex-shrink: 0;
+}
+.group-ix7 .rectangle-M7u {
+  width: 14rem;
+  height: 14rem;
+  background-color: #495057;
+  flex-shrink: 0;
+}
+.group-ix7 .rectangle-K4j {
+  width: 14rem;
+  height: 14rem;
+  background-color: #343a40;
+  flex-shrink: 0;
+}
+.group-ix7 .rectangle-53u {
+  width: 14rem;
+  height: 14rem;
+  background-color: #212529;
+  flex-shrink: 0;
+}

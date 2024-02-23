@@ -1,0 +1,4195 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.android-long-HTV {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.android-long-HTV .group-4-JNb {
+  box-sizing: border-box;
+  padding: 0.7rem 1.2rem 0.7rem 29.7rem;
+  width: 100%;
+  height: 2.4rem;
+  background-color: #f8f9fa;
+  flex-shrink: 0;
+}
+.android-long-HTV .group-4-JNb .group-3-LyV {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.android-long-HTV .group-4-JNb .group-3-LyV .rectangle-H83 {
+  margin-right: 1.1rem;
+  width: 1rem;
+  height: 1rem;
+  background-color: #868e96;
+  flex-shrink: 0;
+}
+.android-long-HTV .group-4-JNb .group-3-LyV .oval-Pwm {
+  margin-right: 0.8rem;
+  width: 1rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .group-4-JNb .group-3-LyV .path-jVq {
+  width: 1.2rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 {
+  margin-bottom: 1.4rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.8rem 3.246rem 1.661rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-2-bg.png');
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.4499999881) -0%, rgba(0, 0, 0, 0.6000000238) 100%);
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj {
+  margin: 0rem 0rem 12.627rem 0.339rem;
+  width: calc(100% - 0.3388rem);
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .icon-navigation-arrowback24px-Gu5 {
+  margin-right: 23rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD {
+  box-sizing: border-box;
+  padding: 1.007rem 0.861rem 0.66rem 0.832rem;
+  width: 7.6rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-4-stroke.png');
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR .vector-44F {
+  margin: 0rem 0.15rem 0.17rem 0rem;
+  width: 0.5064rem;
+  height: 0.852rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR .vector-Nqd {
+  margin: 0.029rem 0.134rem 0rem 0rem;
+  width: 0.5736rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR .vector-h7D {
+  margin: 0rem 0.175rem 0.24rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR .vector-DrF {
+  margin: 0.014rem 0.437rem 0rem 0rem;
+  width: 0.5148rem;
+  height: 0.6384rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR .vector-9ju {
+  margin: 0rem 0.179rem 0.185rem 0rem;
+  width: 0.6948rem;
+  height: 0.8664rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR .vector-GJj {
+  margin: 0.029rem 0.068rem 0rem 0rem;
+  width: 0.3432rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR .vector-QA3 {
+  margin: 0.029rem 0.14rem 0rem 0rem;
+  width: 0.5736rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR .vector-jCK {
+  margin: 0.043rem 0.187rem 0rem 0rem;
+  width: 0.5148rem;
+  height: 0.6384rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .auto-group-qp7u-Bcj .group-5-oPD .join-group-WoR .vector-GCF {
+  margin-top: 0.2544rem;
+  width: 0.5604rem;
+  height: 0.8784rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd {
+  margin: 0rem 0rem 0.752rem 0.024rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-59h {
+  margin: 0rem 0.111rem 0.274rem 0rem;
+  width: 0.9724rem;
+  height: 1.2274rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-1JF {
+  margin: 0.02rem 0.179rem 0rem 0rem;
+  width: 0.8364rem;
+  height: 0.9333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-8dm {
+  margin: 0rem 0.224rem 0rem 0rem;
+  width: 1.2954rem;
+  height: 0.9129rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-53D {
+  margin: 0.34rem 0.181rem 0rem 0rem;
+  width: 0.8432rem;
+  height: 1.2529rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-1hZ {
+  margin: 0.041rem 0.156rem 0rem 0rem;
+  width: 0.7888rem;
+  height: 0.9129rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-LUw {
+  margin: 0rem 0.112rem 0.221rem 0rem;
+  width: 0.5542rem;
+  height: 1.1339rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-GtP {
+  margin: 0.02rem 0.178rem 0rem 0rem;
+  width: 0.833rem;
+  height: 0.9333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-Qzb {
+  margin: 0.02rem 0.571rem 0rem 0rem;
+  width: 0.5321rem;
+  height: 0.8925rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-m4T {
+  margin: 0rem 0.212rem 0.274rem 0rem;
+  width: 0.8075rem;
+  height: 1.1866rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-6cX {
+  margin: 0rem 0.144rem 0rem 0rem;
+  width: 0.7888rem;
+  height: 0.9129rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-poR {
+  margin: 0.209rem 0.091rem 0rem 0rem;
+  width: 0.9061rem;
+  height: 1.4246rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-mTm {
+  margin: 0rem 0.214rem 0.36rem 0rem;
+  width: 0.2924rem;
+  height: 1.2733rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-6kw {
+  margin: 0rem 0.168rem 0rem 0rem;
+  width: 0.7888rem;
+  height: 0.9129rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-F83 {
+  margin: 0.02rem 0.122rem 0rem 0rem;
+  width: 0.833rem;
+  height: 0.9333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-BnP {
+  margin: 0.02rem 0.178rem 0rem 0rem;
+  width: 0.833rem;
+  height: 0.9333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-XbM {
+  margin: 0.02rem 0.135rem 0rem 0rem;
+  width: 0.5321rem;
+  height: 0.8925rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-fSf {
+  margin: 0rem 0.214rem 0.36rem 0rem;
+  width: 0.2924rem;
+  height: 1.2733rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-br7 {
+  margin: 0rem 0.144rem 0rem 0rem;
+  width: 0.7888rem;
+  height: 0.9129rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineering-AHd .vector-8r3 {
+  margin-top: 0.2091rem;
+  width: 0.9061rem;
+  height: 1.4246rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-AXq {
+  margin: 0rem 0.109rem 0.204rem 0rem;
+  width: 0.5952rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-W5u {
+  margin: 0rem 0.135rem 0.204rem 0rem;
+  width: 0.6216rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-qts {
+  margin: 0rem 0.127rem 0.218rem 0rem;
+  width: 0.5568rem;
+  height: 0.852rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-abZ {
+  margin: 0.653rem 0.173rem 0rem 0rem;
+  width: 0.1896rem;
+  height: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-bmZ {
+  margin: 0rem 0.168rem 0.204rem 0rem;
+  width: 0.5496rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-jcs {
+  margin: 0rem 0.172rem 0.19rem 0rem;
+  width: 0.5592rem;
+  height: 0.852rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-sj5 {
+  margin: 0rem 0.437rem 0.19rem 0rem;
+  width: 0.5436rem;
+  height: 0.852rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-p8X {
+  margin: 0rem 0.101rem 0.204rem 0rem;
+  width: 0.6312rem;
+  height: 0.8664rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-kH5 {
+  margin: 0.014rem 0.158rem 0rem 0rem;
+  width: 0.5592rem;
+  height: 0.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-tPH {
+  margin: 0rem 0.198rem 0rem 0rem;
+  width: 0.8496rem;
+  height: 0.6336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-pnj {
+  margin: 0.24rem 0.156rem 0rem 0rem;
+  width: 0.534rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-jeo {
+  margin: 0.029rem 0.137rem 0rem 0rem;
+  width: 0.4836rem;
+  height: 0.6336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-ErT {
+  margin: 0rem 0.104rem 0.157rem 0rem;
+  width: 0.3336rem;
+  height: 0.7908rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-wVy {
+  margin: 0.014rem 0.158rem 0rem 0rem;
+  width: 0.546rem;
+  height: 0.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-cMD {
+  margin: 0.014rem 0.416rem 0rem 0rem;
+  width: 0.318rem;
+  height: 0.6192rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-ur7 {
+  margin: 0rem 0.179rem 0.204rem 0rem;
+  width: 0.5112rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-cVd {
+  margin: 0rem 0.148rem 0rem 0rem;
+  width: 0.4836rem;
+  height: 0.6336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-7SP {
+  margin: 0.185rem 0.101rem 0rem 0rem;
+  width: 0.5724rem;
+  height: 0.9576rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-11y {
+  margin: 0rem 0.193rem 0.254rem 0rem;
+  width: 0.1176rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-WUX {
+  margin: 0rem 0.153rem 0rem 0rem;
+  width: 0.4836rem;
+  height: 0.6336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-FBD {
+  margin: 0.014rem 0.113rem 0rem 0rem;
+  width: 0.546rem;
+  height: 0.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-ajH {
+  margin: 0.014rem 0.158rem 0rem 0rem;
+  width: 0.546rem;
+  height: 0.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-7z7 {
+  margin: 0.014rem 0.064rem 0rem 0rem;
+  width: 0.318rem;
+  height: 0.6192rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-G6K {
+  margin: 0.014rem 0.386rem 0rem 0rem;
+  width: 0.474rem;
+  height: 0.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-Ckf {
+  margin: 0rem 0.076rem 0.254rem 0rem;
+  width: 0.33rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-8uD {
+  margin: 0.014rem 0.158rem 0rem 0rem;
+  width: 0.5592rem;
+  height: 0.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-Uy5 {
+  margin: 0rem 0.134rem 0.254rem 0rem;
+  width: 0.1872rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-d5H {
+  margin: 0rem 0.094rem 0.254rem 0rem;
+  width: 0.1872rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-Mmy {
+  margin: 0.014rem 0.087rem 0rem 0rem;
+  width: 0.5592rem;
+  height: 0.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-hqq {
+  margin: 0.014rem 0.355rem 0rem 0rem;
+  width: 0.8472rem;
+  height: 0.6192rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-rCw {
+  margin: 0rem 0.154rem 0.157rem 0rem;
+  width: 0.3336rem;
+  height: 0.7908rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-Pif {
+  margin: 0rem 0.188rem 0.254rem 0rem;
+  width: 0.4836rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-jXd {
+  margin: 0rem 0.134rem 0.254rem 0rem;
+  width: 0.1176rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-ybhq-sc3 .computer-engineers-follow-this-tKR .vector-5Lb {
+  margin-top: 0.0144rem;
+  width: 0.474rem;
+  height: 0.648rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P {
+  margin: 0rem 1.8rem 2rem 1.708rem;
+  width: calc(100% - 3.5078rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj {
+  margin: 1.136rem 14.844rem 0.807rem 0rem;
+  height: calc(100% - 1.9428rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-WqD {
+  margin: 0rem 0.089rem 0.106rem 0rem;
+  width: 0.7588rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-pqu {
+  margin: 0.136rem 0.101rem 0rem 0rem;
+  width: 0.6888rem;
+  height: 0.7686rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-xSK {
+  margin: 0.136rem 0.08rem 0rem 0rem;
+  width: 0.6244rem;
+  height: 0.7686rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-HzP {
+  margin: 0rem 0.098rem 0.063rem 0rem;
+  width: 0.4564rem;
+  height: 0.9338rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-2SB {
+  margin: 0.136rem 0.11rem 0rem 0rem;
+  width: 0.6244rem;
+  height: 0.7686rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-MjM {
+  margin-right: 0.0181rem;
+  width: 0.4396rem;
+  height: 1.2572rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-uks {
+  margin: 0rem 0.158rem 0.106rem 0rem;
+  width: 0.7322rem;
+  height: 1.0108rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-47y {
+  margin: 0rem 0.117rem 0.09rem 0rem;
+  width: 0.7336rem;
+  height: 0.994rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-ByH {
+  margin: 0rem 0.051rem 0.106rem 0rem;
+  width: 0.728rem;
+  height: 1.0108rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .posts368-czj .vector-L5V {
+  width: 0.4396rem;
+  height: 1.2572rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu {
+  box-sizing: border-box;
+  padding: 1.133rem 1.583rem 1.084rem 1.112rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-4.png');
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR {
+  margin-right: 1.7736rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-wqy {
+  margin: 0rem 0.151rem 0.016rem 0rem;
+  width: 0.5668rem;
+  height: 0.9074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-5BV {
+  margin: 0rem 0.189rem 0.016rem 0rem;
+  width: 0.1677rem;
+  height: 0.9672rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-cBR {
+  margin: 0rem 0.061rem 0.016rem 0rem;
+  width: 0.2353rem;
+  height: 0.962rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-Yas {
+  margin: 0rem 0.103rem 0.016rem 0rem;
+  width: 0.3887rem;
+  height: 0.8606rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-gSB {
+  margin-right: 0.1569rem;
+  width: 0.611rem;
+  height: 0.7072rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-ETh {
+  margin: 0rem 0.131rem 0.016rem 0rem;
+  width: 0.3718rem;
+  height: 0.676rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-myR {
+  margin-right: 0.4419rem;
+  width: 0.1898rem;
+  height: 0.7072rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-itf {
+  margin: 0rem 0.13rem 0.016rem 0rem;
+  width: 0.8034rem;
+  height: 0.9074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-sFm {
+  margin: 0rem 0.128rem 0.016rem 0rem;
+  width: 0.2353rem;
+  height: 0.962rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .filter-all-1hR .vector-QmV {
+  margin-bottom: 0.0156rem;
+  width: 0.2353rem;
+  height: 0.962rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-hfjm-72P .group-6-tMu .baseline-arrowdropdown-24px-m6F {
+  margin-top: 0.0349rem;
+  width: 0.8333rem;
+  height: 0.4167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .rectangle-5-Dyq {
+  width: 100%;
+  height: 12rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 {
+  box-sizing: border-box;
+  padding: 1.463rem 1.8rem 2rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .article-FQj {
+  margin-bottom: 1.037rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .article-FQj .vector-Lh5 {
+  margin-right: 0.3617rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .article-FQj .vector-4sy {
+  margin: 0rem 0.14rem 0.063rem 0rem;
+  width: 0.8652rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .article-FQj .vector-o4s {
+  margin: 0rem 0.068rem 0.063rem 0rem;
+  width: 0.4004rem;
+  height: 0.728rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .article-FQj .vector-XWf {
+  margin: 0rem 0.152rem 0.063rem 0rem;
+  width: 0.4186rem;
+  height: 0.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .article-FQj .vector-TfD {
+  margin: 0rem 0.155rem 0.063rem 0rem;
+  width: 0.1806rem;
+  height: 1.0416rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .article-FQj .vector-zQF {
+  margin: 0rem 0.145rem 0.046rem 0rem;
+  width: 0.6174rem;
+  height: 0.7616rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .article-FQj .vector-KxK {
+  margin: 0rem 0.097rem 0.063rem 0rem;
+  width: 0.2534rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .article-FQj .vector-4f1 {
+  margin-bottom: 0.0462rem;
+  width: 0.658rem;
+  height: 0.7616rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq {
+  margin: 0rem 0rem 1.411rem 0.037rem;
+  width: calc(100% - 0.0368rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb {
+  margin: 0.506rem 4.213rem 0rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-jynf-oW7 {
+  margin: 0.077rem 0.098rem 0rem 0rem;
+  width: 1.4384rem;
+  height: 3.236rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-xacw-XS7 {
+  margin: 0.01rem 0.085rem 0rem 0rem;
+  width: 0.7777rem;
+  height: 3.284rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-mucx-3vF {
+  margin-right: 0.1382rem;
+  width: 2.2289rem;
+  height: 3.3128rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-mwkk-PjD {
+  margin: 0.01rem 0.083rem 0rem 0rem;
+  width: 1.4367rem;
+  height: 3.284rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-ubef-vDM {
+  margin: 0.339rem 0.111rem 0rem 0rem;
+  width: 0.7872rem;
+  height: 2.9736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-csnp-3om {
+  margin: 0.339rem 0.05rem 0rem 0rem;
+  width: 1.369rem;
+  height: 2.9736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-hwqm-AtP {
+  margin: 0.01rem 0.027rem 0rem 0rem;
+  width: 4.0069rem;
+  height: 3.6232rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-enm5-Hy1 {
+  margin: 0.358rem 0.027rem 0rem 0rem;
+  width: 0.5246rem;
+  height: 2.9352rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-q6h5-RZR {
+  margin: 0.339rem 0.097rem 0rem 0rem;
+  width: 0.856rem;
+  height: 2.9736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-dpsy-MT5 {
+  margin: 0.01rem 0.018rem 0rem 0rem;
+  width: 1.6638rem;
+  height: 3.284rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-npwb-gVM {
+  margin: 0.339rem 0.117rem 0rem 0rem;
+  width: 0.8362rem;
+  height: 2.9736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .auto-group-ejnf-pbZ {
+  margin: 0.01rem 0.614rem 0rem 0rem;
+  width: 2.9998rem;
+  height: 3.3032rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .vector-Z3M {
+  margin: 0.358rem 0.086rem 0rem 0rem;
+  width: 0.4784rem;
+  height: 0.8352rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .vector-tLX {
+  margin: 0.339rem 0.107rem 0rem 0rem;
+  width: 0.768rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .vector-1vw {
+  margin: 0.211rem 0.102rem 0rem 0rem;
+  width: 0.8272rem;
+  height: 1.3216rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .vector-Mju {
+  margin: 0.358rem 0.237rem 0rem 0rem;
+  width: 0.7136rem;
+  height: 0.8544rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .vector-uFd {
+  margin: 0.01rem 0.096rem 0rem 0rem;
+  width: 0.3152rem;
+  height: 1.184rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .vector-2LF {
+  margin: 0.339rem 0.166rem 0rem 0rem;
+  width: 0.7872rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .what-if-famous-brands-had-regular-fonts-meet-regulabrands-XYb .vector-ABZ {
+  margin-top: 0.3584rem;
+  width: 0.4784rem;
+  height: 0.8352rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-mptr-buq .group-3-76o {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses {
+  margin: 0rem 0rem 2.22rem 0.084rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-GP1 {
+  margin: 0rem 0.146rem 0.207rem 0rem;
+  width: 0.392rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-CnT {
+  margin: 0rem 0.105rem 0.98rem 0rem;
+  width: 0.2212rem;
+  height: 0.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-jXV {
+  margin: 0.048rem 0.08rem 0rem 0rem;
+  width: 0.6384rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-55Z {
+  margin: 0.048rem 0.44rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-cbH {
+  margin: 0.048rem 0.102rem 0rem 0rem;
+  width: 0.9884rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-Mom {
+  margin: 0.048rem 0.184rem 0rem 0rem;
+  width: 0.6524rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-JDD {
+  margin: 0.048rem 0.143rem 0rem 0rem;
+  width: 0.371rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-qiw {
+  margin: 0rem 0.067rem 0.266rem 0rem;
+  width: 0.595rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-nPH {
+  margin: 0.048rem 0.136rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-j3d {
+  margin: 0rem 0.556rem 0.249rem 0rem;
+  width: 0.623rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-GZM {
+  margin: 0rem 0.225rem 0.266rem 0rem;
+  width: 0.1372rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-p55 {
+  margin: 0.031rem 0.567rem 0rem 0rem;
+  width: 0.5642rem;
+  height: 0.7392rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-kjR {
+  margin: 0rem 0.156rem 0.19rem 0rem;
+  width: 0.7028rem;
+  height: 0.994rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-HzF {
+  margin: 0rem 0.405rem 0.207rem 0rem;
+  width: 0.791rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-EPh {
+  margin: 0rem 0.089rem 0.266rem 0rem;
+  width: 0.385rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-P1h {
+  margin: 0.048rem 0.184rem 0rem 0rem;
+  width: 0.6524rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-Kvw {
+  margin: 0.048rem 0.396rem 0rem 0rem;
+  width: 0.371rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-4tX {
+  margin: 0rem 0.18rem 0.153rem 0rem;
+  width: 0.3892rem;
+  height: 0.9226rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-1Ys {
+  margin: 0rem 0.178rem 0.266rem 0rem;
+  width: 0.5642rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-MMq {
+  margin: 0.048rem 0.515rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-tsZ {
+  margin: 0rem 0.136rem 0.249rem 0rem;
+  width: 0.623rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-qno {
+  margin: 0.048rem 0.106rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-ni3 {
+  margin: 0rem 0.089rem 0.153rem 0rem;
+  width: 0.3892rem;
+  height: 0.9226rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-XvX {
+  margin: 0rem 0.121rem 0.153rem 0rem;
+  width: 0.3892rem;
+  height: 0.9226rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-fmq {
+  margin: 0.048rem 0.185rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-cSB {
+  margin: 0.048rem 0.474rem 0rem 0rem;
+  width: 0.371rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-kYP {
+  margin: 0.311rem 0.132rem 0rem 0rem;
+  width: 0.623rem;
+  height: 1.0192rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-gS3 {
+  margin: 0.048rem 0.16rem 0rem 0rem;
+  width: 0.6454rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-2F1 {
+  margin: 0.048rem 0.07rem 0rem 0rem;
+  width: 0.371rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-mTV {
+  margin: 0rem 0.458rem 0.153rem 0rem;
+  width: 0.3892rem;
+  height: 0.9226rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-upb {
+  margin: 0.048rem 0.098rem 0rem 0rem;
+  width: 0.6524rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-eXH {
+  margin: 0rem 0.421rem 0.266rem 0rem;
+  width: 0.385rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-CHu {
+  margin: 0.048rem 0.442rem 0rem 0rem;
+  width: 0.6454rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-Lf1 {
+  margin: 0rem 0.185rem 0.249rem 0rem;
+  width: 0.623rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-HKM {
+  margin: 0.048rem 0.131rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-q5y {
+  margin: 0.048rem 0.101rem 0rem 0rem;
+  width: 0.5992rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-Nbh {
+  margin: 0.048rem 0.111rem 0rem 0rem;
+  width: 0.6454rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-Whu {
+  margin: 0rem 0.185rem 0.249rem 0rem;
+  width: 0.623rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-rmm {
+  margin: 0.048rem 0.143rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-18s {
+  margin: 0.623rem 0.567rem 0rem 0rem;
+  width: 0.1708rem;
+  height: 0.1806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-woD {
+  margin: 0rem 0.062rem 0.207rem 0rem;
+  width: 0.5824rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-swm {
+  margin: 0.623rem 0.211rem 0rem 0rem;
+  width: 0.1708rem;
+  height: 0.1806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .ive-worked-in-ux-for-the-better-part-of-a-decade-f-Ses .vector-Qwh {
+  margin-top: 0.623rem;
+  width: 0.1708rem;
+  height: 0.1806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh {
+  width: 100%;
+  height: 3.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .rectangle-31-KHy {
+  width: 3.7rem;
+  height: 3.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-31-bg.png');
+  border-radius: 1.85rem;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 0rem 1.251rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf {
+  margin: 0.438rem 11.718rem 0.486rem 0rem;
+  width: 8.9308rem;
+  height: calc(100% - 0.9236rem);
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu {
+  margin-bottom: 0.7916rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-Xwm {
+  margin-right: 0.1135rem;
+  width: 0.6786rem;
+  height: 0.9386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-GuM {
+  margin: 0rem 0.135rem 0rem 0rem;
+  width: 0.6396rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-QEs {
+  margin: 0rem 0.063rem 0.016rem 0rem;
+  width: 0.3887rem;
+  height: 0.6786rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-wEo {
+  margin: 0rem 0.144rem 0.016rem 0rem;
+  width: 0.4056rem;
+  height: 0.8645rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-H3m {
+  margin: 0rem 0.136rem 0.016rem 0rem;
+  width: 0.5798rem;
+  height: 0.962rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-DCK {
+  margin: 0rem 0.135rem 0rem 0rem;
+  width: 0.6396rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-MJX {
+  margin: 0rem 0.42rem 0.016rem 0rem;
+  width: 0.6279rem;
+  height: 0.962rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-tpF {
+  margin: 0rem 0.053rem 0.016rem 0rem;
+  width: 0.7553rem;
+  height: 0.9074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-3BM {
+  margin: 0rem 0.135rem 0rem 0rem;
+  width: 0.6396rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-BHZ {
+  margin: 0rem 0.184rem 0.016rem 0rem;
+  width: 0.9698rem;
+  height: 0.6942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-7wu {
+  margin: 0rem 0.06rem 0.016rem 0rem;
+  width: 0.3887rem;
+  height: 0.6786rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .sarthak-kamra-cZu .vector-fiX {
+  margin-bottom: 0rem;
+  width: 0.6396rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z {
+  margin-left: 0.0033rem;
+  display: flex;
+  align-items: flex-end;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z .vector-9dh {
+  margin: 0rem 0.128rem 0.014rem 0rem;
+  width: 0.624rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z .vector-VBm {
+  margin-right: 0.1284rem;
+  width: 0.1752rem;
+  height: 0.1812rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z .vector-qWX {
+  margin: 0rem 0.14rem 0.014rem 0rem;
+  width: 0.6312rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z .vector-P2F {
+  margin: 0rem 0.311rem 0.014rem 0rem;
+  width: 0.552rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z .vector-JQ7 {
+  margin: 0rem 0.098rem 0.014rem 0rem;
+  width: 0.5808rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z .vector-1JX {
+  margin: 0rem 0.133rem 0.014rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z .vector-K4K {
+  margin: 0rem 0.077rem 0rem 0rem;
+  width: 0.564rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z .vector-QrT {
+  margin: 0rem 0.066rem 0.014rem 0rem;
+  width: 0.8964rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-7-mvf .k-views-d9Z .vector-wbV {
+  margin-bottom: 0rem;
+  width: 0.5004rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-8-5hh {
+  box-sizing: border-box;
+  padding: 1.05rem 0.943rem 1.056rem 1.025rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41.png');
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-8-5hh .baseline-share-24px-QEB {
+  margin-right: 0.6754rem;
+  width: 1.35rem;
+  height: 1.494rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-2qlb-56w .auto-group-lhh1-wQ3 .auto-group-5s63-ZZh .auto-group-tagw-e5M .group-8-5hh .share-8AB {
+  margin-top: 0.1324rem;
+  width: 3.0071rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .rectangle-35-Xy1 {
+  margin-bottom: 1.2rem;
+  opacity: 0.8;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(241, 243, 245, 0.8000000119);
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .rectangle-5-Q1D {
+  width: 100%;
+  height: 12rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-r1u.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw {
+  box-sizing: border-box;
+  padding: 1.463rem 1.8rem 2rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 {
+  margin-bottom: 1.037rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-Loy {
+  margin-right: 0.4513rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-gN3 {
+  margin: 0rem 0.136rem 0.063rem 0rem;
+  width: 0.6258rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-oxT {
+  margin: 0rem 0.211rem 0.046rem 0rem;
+  width: 0.6538rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-8zj {
+  margin: 0rem 0.17rem 0.046rem 0rem;
+  width: 0.6006rem;
+  height: 0.7448rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-fUs {
+  margin: 0rem 0.092rem 0.046rem 0rem;
+  width: 0.6174rem;
+  height: 0.7616rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-By1 {
+  margin: 0rem 0.073rem 0.046rem 0rem;
+  width: 0.672rem;
+  height: 0.7616rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-L5D {
+  margin: 0rem 0.152rem 0.063rem 0rem;
+  width: 0.4186rem;
+  height: 0.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-T9q {
+  margin: 0rem 0.155rem 0.063rem 0rem;
+  width: 0.1806rem;
+  height: 1.0416rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-aVM {
+  margin: 0rem 0.17rem 0.046rem 0rem;
+  width: 0.6692rem;
+  height: 0.7616rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .education-EF9 .vector-ibZ {
+  margin-bottom: 0.063rem;
+  width: 0.6006rem;
+  height: 0.7448rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-2caj-rxf {
+  margin: 0rem 0rem 1.43rem 0.042rem;
+  width: calc(100% - 0.0416rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-2caj-rxf .tax-benefits-for-investment-under-national-pension-scheme-launched-by-government-PBu {
+  margin: 0.506rem 3.788rem 0rem 0rem;
+  width: 25.9703rem;
+  height: 5.7136rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-2caj-rxf .group-31-GmV {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT {
+  margin: 0rem 0rem 2.22rem 0.084rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-2u5 {
+  margin: 0rem 0.146rem 0.207rem 0rem;
+  width: 0.392rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-AEb {
+  margin: 0rem 0.105rem 0.98rem 0rem;
+  width: 0.2212rem;
+  height: 0.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-J5u {
+  margin: 0.048rem 0.08rem 0rem 0rem;
+  width: 0.6384rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-RwD {
+  margin: 0.048rem 0.44rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-mkB {
+  margin: 0.048rem 0.102rem 0rem 0rem;
+  width: 0.9884rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-i9d {
+  margin: 0.048rem 0.184rem 0rem 0rem;
+  width: 0.6524rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-rWj {
+  margin: 0.048rem 0.143rem 0rem 0rem;
+  width: 0.371rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-zsq {
+  margin: 0rem 0.067rem 0.266rem 0rem;
+  width: 0.595rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-LRu {
+  margin: 0.048rem 0.136rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-gVm {
+  margin: 0rem 0.556rem 0.249rem 0rem;
+  width: 0.623rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-dR1 {
+  margin: 0rem 0.225rem 0.266rem 0rem;
+  width: 0.1372rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-aLF {
+  margin: 0.031rem 0.567rem 0rem 0rem;
+  width: 0.5642rem;
+  height: 0.7392rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-Wjh {
+  margin: 0rem 0.156rem 0.19rem 0rem;
+  width: 0.7028rem;
+  height: 0.994rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-TQ3 {
+  margin: 0rem 0.405rem 0.207rem 0rem;
+  width: 0.791rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-1Af {
+  margin: 0rem 0.089rem 0.266rem 0rem;
+  width: 0.385rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-YgP {
+  margin: 0.048rem 0.184rem 0rem 0rem;
+  width: 0.6524rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-Hts {
+  margin: 0.048rem 0.396rem 0rem 0rem;
+  width: 0.371rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-dC3 {
+  margin: 0rem 0.18rem 0.153rem 0rem;
+  width: 0.3892rem;
+  height: 0.9226rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-xk7 {
+  margin: 0rem 0.178rem 0.266rem 0rem;
+  width: 0.5642rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-J3H {
+  margin: 0.048rem 0.515rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-3Fm {
+  margin: 0rem 0.136rem 0.249rem 0rem;
+  width: 0.623rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-aWb {
+  margin: 0.048rem 0.106rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-Kj5 {
+  margin: 0rem 0.089rem 0.153rem 0rem;
+  width: 0.3892rem;
+  height: 0.9226rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-4wZ {
+  margin: 0rem 0.121rem 0.153rem 0rem;
+  width: 0.3892rem;
+  height: 0.9226rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-pA3 {
+  margin: 0.048rem 0.185rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-9i7 {
+  margin: 0.048rem 0.474rem 0rem 0rem;
+  width: 0.371rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-HJX {
+  margin: 0.311rem 0.132rem 0rem 0rem;
+  width: 0.623rem;
+  height: 1.0192rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-R9q {
+  margin: 0.048rem 0.16rem 0rem 0rem;
+  width: 0.6454rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-xQf {
+  margin: 0.048rem 0.07rem 0rem 0rem;
+  width: 0.371rem;
+  height: 0.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-hd9 {
+  margin: 0rem 0.458rem 0.153rem 0rem;
+  width: 0.3892rem;
+  height: 0.9226rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-3S7 {
+  margin: 0.048rem 0.098rem 0rem 0rem;
+  width: 0.6524rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-awq {
+  margin: 0rem 0.421rem 0.266rem 0rem;
+  width: 0.385rem;
+  height: 1.036rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-jJw {
+  margin: 0.048rem 0.442rem 0rem 0rem;
+  width: 0.6454rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-UGX {
+  margin: 0rem 0.185rem 0.249rem 0rem;
+  width: 0.623rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-RBm {
+  margin: 0.048rem 0.131rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-AQF {
+  margin: 0.048rem 0.101rem 0rem 0rem;
+  width: 0.5992rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-WU7 {
+  margin: 0.048rem 0.111rem 0rem 0rem;
+  width: 0.6454rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-4Ej {
+  margin: 0rem 0.185rem 0.249rem 0rem;
+  width: 0.623rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-QJb {
+  margin: 0.048rem 0.143rem 0rem 0rem;
+  width: 0.637rem;
+  height: 0.756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-MDq {
+  margin: 0.623rem 0.567rem 0rem 0rem;
+  width: 0.1708rem;
+  height: 0.1806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-VL3 {
+  margin: 0rem 0.062rem 0.207rem 0rem;
+  width: 0.5824rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-2as {
+  margin: 0.623rem 0.211rem 0rem 0rem;
+  width: 0.1708rem;
+  height: 0.1806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .ive-worked-in-ux-for-the-better-part-of-a-decade-f-caT .vector-yFD {
+  margin-top: 0.623rem;
+  width: 0.1708rem;
+  height: 0.1806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM {
+  width: 100%;
+  height: 3.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .rectangle-36-Uhm {
+  width: 3.7rem;
+  height: 3.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-36-bg.png');
+  border-radius: 1.85rem;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 0rem 1.242rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX {
+  margin: 0.438rem 13.879rem 0.486rem 0rem;
+  width: 6.7793rem;
+  height: calc(100% - 0.9236rem);
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R {
+  margin: 0rem 0rem 0.792rem 0.009rem;
+  width: calc(100% - 0.0087rem);
+  display: flex;
+  align-items: flex-end;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R .vector-bfu {
+  margin-right: 0.1135rem;
+  width: 0.6786rem;
+  height: 0.9386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R .vector-q4T {
+  margin: 0rem 0.135rem 0rem 0rem;
+  width: 0.6396rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R .vector-AMd {
+  margin: 0rem 0.06rem 0.016rem 0rem;
+  width: 0.3887rem;
+  height: 0.6786rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R .vector-u4K {
+  margin: 0rem 0.135rem 0rem 0rem;
+  width: 0.6396rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R .vector-Sa3 {
+  margin: 0rem 0.429rem 0.016rem 0rem;
+  width: 0.5798rem;
+  height: 0.962rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R .vector-nP1 {
+  margin: 0rem 0.057rem 0.016rem 0rem;
+  width: 1.1648rem;
+  height: 0.9074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R .vector-XLb {
+  margin: 0rem 0.088rem 0rem 0rem;
+  width: 0.624rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R .vector-UFq {
+  margin: 0rem 0.073rem 0rem 0rem;
+  width: 0.5603rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .sarah-west-H9R .vector-DDR {
+  margin-bottom: 0.0156rem;
+  width: 0.4056rem;
+  height: 0.8645rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo {
+  display: flex;
+  align-items: flex-end;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo .vector-uc3 {
+  margin: 0rem 0.133rem 0.014rem 0rem;
+  width: 0.6312rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo .vector-rGP {
+  margin-right: 0.1464rem;
+  width: 0.1752rem;
+  height: 0.1812rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo .vector-bzf {
+  margin: 0rem 0.153rem 0rem 0rem;
+  width: 0.6rem;
+  height: 0.8664rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo .vector-Yf1 {
+  margin: 0rem 0.311rem 0.014rem 0rem;
+  width: 0.552rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo .vector-tis {
+  margin: 0rem 0.098rem 0.014rem 0rem;
+  width: 0.5808rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo .vector-2q5 {
+  margin: 0rem 0.133rem 0.014rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo .vector-yEX {
+  margin: 0rem 0.077rem 0rem 0rem;
+  width: 0.564rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo .vector-udy {
+  margin: 0rem 0.066rem 0.014rem 0rem;
+  width: 0.8964rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-71-YxX .k-views-xgo .vector-Fhq {
+  margin-bottom: 0rem;
+  width: 0.5004rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-81-c2b {
+  box-sizing: border-box;
+  padding: 1.05rem 0.943rem 1.056rem 1.025rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-tRd.png');
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-81-c2b .baseline-share-24px-jd1 {
+  margin-right: 0.6754rem;
+  width: 1.35rem;
+  height: 1.494rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-r2cx-4CF .auto-group-wksh-Wpw .auto-group-n9af-vRM .auto-group-cucw-cJB .group-81-c2b .share-Gsq {
+  margin-top: 0.1324rem;
+  width: 3.0071rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .rectangle-37-ZM9 {
+  opacity: 0.8;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(241, 243, 245, 0.8000000119);
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD {
+  box-sizing: border-box;
+  padding-top: 1.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .rectangle-5-dM1 {
+  width: 100%;
+  height: 12rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-Pi7.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj {
+  box-sizing: border-box;
+  padding: 1.463rem 1.6rem 2rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .meetup-fYb {
+  margin-bottom: 0.82rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .meetup-fYb .vector-PjV {
+  margin: 0rem 0.451rem 0.217rem 0rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .meetup-fYb .vector-vDd {
+  margin: 0.08rem 0.181rem 0rem 0rem;
+  width: 0.8988rem;
+  height: 0.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .meetup-fYb .vector-Sxf {
+  margin: 0.329rem 0.12rem 0rem 0rem;
+  width: 0.658rem;
+  height: 0.7616rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .meetup-fYb .vector-aoy {
+  margin: 0.329rem 0.096rem 0rem 0rem;
+  width: 0.658rem;
+  height: 0.7616rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .meetup-fYb .vector-8Kh {
+  margin: 0.13rem 0.159rem 0rem 0rem;
+  width: 0.4186rem;
+  height: 0.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .meetup-fYb .vector-GRu {
+  margin: 0.346rem 0.219rem 0rem 0rem;
+  width: 0.6006rem;
+  height: 0.7448rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .meetup-fYb .vector-18b {
+  margin-top: 0.5922rem;
+  width: 0.6538rem;
+  height: 1.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V {
+  margin: 0rem 0.2rem 1.08rem 0.131rem;
+  width: calc(100% - 0.3312rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h {
+  margin: 0.506rem 4.916rem 0rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .auto-group-k2dm-BBV {
+  margin-right: 0.1428rem;
+  width: 1.133rem;
+  height: 3.2936rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .auto-group-kddz-KYb {
+  margin: 0.339rem 0.119rem 0rem 0rem;
+  width: 2.6773rem;
+  height: 2.9736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .auto-group-qsqd-FBM {
+  margin: 0.339rem 0.226rem 0rem 0rem;
+  width: 1.6347rem;
+  height: 3.148rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .auto-group-xhaw-mvP {
+  margin: 0.058rem 0.109rem 0rem 0rem;
+  width: 1.5162rem;
+  height: 3.2552rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .auto-group-uy15-J9d {
+  margin: 0.077rem 0.056rem 0rem 0rem;
+  width: 0.7926rem;
+  height: 3.5368rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .auto-group-mbpj-DXV {
+  margin: 0.339rem 0.015rem 0rem 0rem;
+  width: 1.6834rem;
+  height: 2.9736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .auto-group-gam5-d5R {
+  margin: 0.339rem 0.01rem 0rem 0rem;
+  width: 0.8662rem;
+  height: 2.9736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .auto-group-xwej-9Jf {
+  margin: 0.339rem 0.09rem 0rem 0rem;
+  width: 0.6896rem;
+  height: 2.9544rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-5CK {
+  margin: 0.13rem 0.178rem 0rem 0rem;
+  width: 0.4992rem;
+  height: 1.064rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-D3d {
+  margin: 0.339rem 0.171rem 0rem 0rem;
+  width: 1.1936rem;
+  height: 0.8544rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-M9q {
+  margin: 0.339rem 0.18rem 0rem 0rem;
+  width: 0.768rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-VG3 {
+  margin: 0.339rem 0.149rem 0rem 0rem;
+  width: 0.7136rem;
+  height: 0.8544rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-Dhq {
+  margin: 0.13rem 0.569rem 0rem 0rem;
+  width: 0.4992rem;
+  height: 1.064rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-HBu {
+  margin: 0.077rem 0.211rem 0rem 0rem;
+  width: 0.736rem;
+  height: 1.1168rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-pBq {
+  margin: 0.01rem 0.138rem 0rem 0rem;
+  width: 0.3152rem;
+  height: 1.184rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-9V1 {
+  margin-right: 0.1414rem;
+  width: 0.24rem;
+  height: 1.1936rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-txP {
+  margin: 0.13rem 0.115rem 0rem 0rem;
+  width: 0.4992rem;
+  height: 1.064rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-df5 {
+  margin: 0.339rem 0.502rem 0rem 0rem;
+  width: 0.768rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-xxF {
+  margin: 0.058rem 0.143rem 0rem 0rem;
+  width: 0.8352rem;
+  height: 1.1552rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-tqu {
+  margin: 0.339rem 0.126rem 0rem 0rem;
+  width: 0.776rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-2x7 {
+  margin: 0.339rem 0.14rem 0rem 0rem;
+  width: 0.7184rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-b83 {
+  margin-right: 0.1606rem;
+  width: 0.24rem;
+  height: 1.1936rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-Y3H {
+  margin: 0.339rem 0.166rem 0rem 0rem;
+  width: 0.7872rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .finance-investment-elite-social-mixer-lujiazui-J7h .vector-sbM {
+  margin-top: 0.0096rem;
+  width: 0.3152rem;
+  height: 1.184rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-pd3d-A1V .group-32-pFh {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 0.067rem 0rem 0.133rem 0.2rem;
+  height: 1.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .baseline-today-24px-3u9 {
+  margin: 0rem 0.503rem 0.067rem 0rem;
+  width: 1.2rem;
+  height: 1.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM {
+  margin: 0.241rem 5.784rem 0.101rem 0rem;
+  height: calc(100% - 0.3416rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-SwH {
+  margin: 0rem 0.11rem 0.11rem 0rem;
+  width: 0.5232rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-aXh {
+  margin: 0.103rem 0.092rem 0rem 0rem;
+  width: 0.3432rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-7Xd {
+  margin: 0rem 0.116rem 0.166rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-rVD {
+  margin: 0.726rem 0.4rem 0rem 0rem;
+  width: 0.2148rem;
+  height: 0.3324rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-ntf {
+  margin: 0rem 0.098rem 0.11rem 0rem;
+  width: 0.624rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-XbM {
+  margin: 0rem 0.396rem 0.125rem 0rem;
+  width: 0.5808rem;
+  height: 0.852rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-fSf {
+  margin: 0rem 0.106rem 0.11rem 0rem;
+  width: 0.7224rem;
+  height: 0.8664rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-1WX {
+  margin: 0.103rem 0.05rem 0rem 0rem;
+  width: 0.5292rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-YmM {
+  margin: 0rem 0.083rem 0.067rem 0rem;
+  width: 0.3588rem;
+  height: 0.7944rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-VRh {
+  margin: 0.726rem 0.414rem 0rem 0rem;
+  width: 0.2148rem;
+  height: 0.3324rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-EeB {
+  margin: 0rem 0.115rem 0.125rem 0rem;
+  width: 0.5808rem;
+  height: 0.852rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-z7Z {
+  margin: 0rem 0.098rem 0.11rem 0rem;
+  width: 0.6072rem;
+  height: 0.8664rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-XdH {
+  margin: 0rem 0.09rem 0.11rem 0rem;
+  width: 0.624rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .fri-12-oct-2018-mKM .vector-4t7 {
+  margin-bottom: 0.1104rem;
+  width: 0.6rem;
+  height: 0.8664rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .outline-locationon-24px-Dm1 {
+  margin: 0.067rem 0.56rem 0rem 0rem;
+  width: 0.9333rem;
+  height: 1.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B {
+  margin: 0.241rem 0rem 0.101rem 0rem;
+  height: calc(100% - 0.3416rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-Fhh {
+  margin: 0rem 0.108rem 0.11rem 0rem;
+  width: 0.7416rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-C79 {
+  margin: 0rem 0.169rem 0.161rem 0rem;
+  width: 0.5148rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-KBm {
+  margin: 0.089rem 0.127rem 0rem 0rem;
+  width: 0.8772rem;
+  height: 0.6384rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-ejq {
+  margin: 0.103rem 0.096rem 0rem 0rem;
+  width: 0.564rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-aNb {
+  margin: 0rem 0.129rem 0.146rem 0rem;
+  width: 0.5604rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-K5H {
+  margin: 0.103rem 0.116rem 0rem 0rem;
+  width: 0.576rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-FDq {
+  margin: 0rem 0.092rem 0.146rem 0rem;
+  width: 0.5604rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-amu {
+  margin: 0.103rem 0.079rem 0rem 0rem;
+  width: 0.576rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-iNK {
+  margin: 0rem 0.128rem 0.146rem 0rem;
+  width: 0.5604rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-rUX {
+  margin: 0.726rem 0.413rem 0rem 0rem;
+  width: 0.2148rem;
+  height: 0.3324rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-o8s {
+  margin: 0rem 0.149rem 0.11rem 0rem;
+  width: 0.3648rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-vjH {
+  margin: 0.089rem 0.132rem 0rem 0rem;
+  width: 0.5148rem;
+  height: 0.6384rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-fB5 {
+  margin: 0rem 0.163rem 0.146rem 0rem;
+  width: 0.5604rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-Q8f {
+  margin: 0rem 0.117rem 0.166rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-48-Lzj .ahmedabad-india-Z4B .vector-LHD {
+  margin-top: 0.1032rem;
+  width: 0.576rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B {
+  margin-bottom: 2.8rem;
+  box-sizing: border-box;
+  padding: 1.23rem 12.494rem 1.184rem 12.464rem;
+  width: 100%;
+  height: 3.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-2-stroke-jBm.png');
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-vFR {
+  margin: 0rem 0.102rem 0.016rem 0rem;
+  width: 0.7878rem;
+  height: 0.9074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-rPy {
+  margin: 0rem 0.12rem 0.016rem 0rem;
+  width: 0.195rem;
+  height: 0.9698rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-P91 {
+  margin: 0rem 0.133rem 0rem 0rem;
+  width: 0.5603rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-XFD {
+  margin: 0rem 0.115rem 0.016rem 0rem;
+  width: 0.195rem;
+  height: 0.9698rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-fMR {
+  margin: 0rem 0.389rem 0.016rem 0rem;
+  width: 0.4056rem;
+  height: 0.8645rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-CMM {
+  margin: 0rem 0.057rem 0.016rem 0rem;
+  width: 1.1648rem;
+  height: 0.9074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-LTZ {
+  margin: 0rem 0.146rem 0rem 0rem;
+  width: 0.624rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-V5Z {
+  margin-right: 0.0957rem;
+  width: 0.6253rem;
+  height: 0.9776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-dxT {
+  margin: 0rem 0.133rem 0rem 0rem;
+  width: 0.5603rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-Nf9 {
+  margin: 0rem 0.115rem 0.016rem 0rem;
+  width: 0.195rem;
+  height: 0.9698rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-vRm {
+  margin: 0rem 0.094rem 0.016rem 0rem;
+  width: 0.4056rem;
+  height: 0.8645rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .group-422-g6B .visit-website-zMm .vector-sM1 {
+  margin-bottom: 0rem;
+  width: 0.624rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX {
+  margin-right: 0.2rem;
+  width: calc(100% - 0.2rem);
+  height: 3.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .rectangle-38-vq5 {
+  width: 3.7rem;
+  height: 3.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-38-bg.png');
+  border-radius: 1.85rem;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 0rem 1.26rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F {
+  margin: 0.438rem 13.415rem 0.486rem 0rem;
+  width: 7.2246rem;
+  height: calc(100% - 0.9236rem);
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm {
+  margin: 0rem 0rem 0.792rem 0.047rem;
+  width: calc(100% - 0.0466rem);
+  display: flex;
+  align-items: flex-end;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-crK {
+  margin: 0rem 0.094rem 0.016rem 0rem;
+  width: 0.6942rem;
+  height: 0.9074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-Yzs {
+  margin-right: 0.1475rem;
+  width: 0.6305rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-JUF {
+  margin: 0rem 0.136rem 0.016rem 0rem;
+  width: 0.5798rem;
+  height: 0.6942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-SKZ {
+  margin-right: 0.1347rem;
+  width: 0.6396rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-C3q {
+  margin: 0rem 0.371rem 0.016rem 0rem;
+  width: 0.2561rem;
+  height: 0.962rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-Xbu {
+  margin: 0rem 0.152rem 0.001rem 0rem;
+  width: 0.5733rem;
+  height: 0.9217rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-UGF {
+  margin-right: 0.1475rem;
+  width: 0.6305rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-pqu {
+  margin: 0rem 0.139rem 0.016rem 0rem;
+  width: 0.5798rem;
+  height: 0.6942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-ZoV {
+  margin-right: 0.0879rem;
+  width: 0.624rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .ronal-jones-7Pm .vector-Wij {
+  width: 0.5603rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .views-Ghu {
+  display: flex;
+  align-items: flex-end;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .views-Ghu .vector-2BH {
+  margin: 0rem 0.116rem 0rem 0rem;
+  width: 0.6rem;
+  height: 0.8664rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .views-Ghu .vector-Zwu {
+  margin: 0rem 0.112rem 0rem 0rem;
+  width: 0.6072rem;
+  height: 0.8664rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .views-Ghu .vector-KAP {
+  margin: 0rem 0.356rem 0rem 0rem;
+  width: 0.6072rem;
+  height: 0.8664rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .views-Ghu .vector-47y {
+  margin: 0rem 0.098rem 0.014rem 0rem;
+  width: 0.5808rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .views-Ghu .vector-o5Z {
+  margin: 0rem 0.133rem 0.014rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .views-Ghu .vector-jE7 {
+  margin-right: 0.0765rem;
+  width: 0.564rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .views-Ghu .vector-5Ys {
+  margin: 0rem 0.066rem 0.014rem 0rem;
+  width: 0.8964rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-72-z4F .views-Ghu .vector-1xK {
+  width: 0.5004rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-82-AqD {
+  box-sizing: border-box;
+  padding: 1.05rem 0.943rem 1.056rem 1.025rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-uAf.png');
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-82-AqD .baseline-share-24px-7Ef {
+  margin-right: 0.6754rem;
+  width: 1.35rem;
+  height: 1.494rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-arsw-tuD .auto-group-ktpw-kAj .auto-group-jfk3-zgX .auto-group-dbno-TKD .group-82-AqD .share-ekP {
+  margin-top: 0.1324rem;
+  width: 3.0071rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .rectangle-39-iET {
+  opacity: 0.8;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(241, 243, 245, 0.8000000119);
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM {
+  box-sizing: border-box;
+  padding: 2.063rem 1.6rem 2rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .job-kB9 {
+  margin-bottom: 1.037rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .job-kB9 .vector-gab {
+  margin-right: 0.3687rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .job-kB9 .vector-dVq {
+  margin: 0rem 0.175rem 0.046rem 0rem;
+  width: 0.5908rem;
+  height: 0.994rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .job-kB9 .vector-Jby {
+  margin: 0rem 0.17rem 0.046rem 0rem;
+  width: 0.6692rem;
+  height: 0.7616rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .job-kB9 .vector-q67 {
+  margin-bottom: 0.0462rem;
+  width: 0.6538rem;
+  height: 1.0528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK {
+  margin: 0rem 0.2rem 0.9rem 0.062rem;
+  width: calc(100% - 0.2624rem);
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 {
+  margin: 0.516rem 12.477rem 0.78rem 0rem;
+  height: calc(100% - 1.296rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-ZgK {
+  margin: 0rem 0.143rem 0.253rem 0rem;
+  width: 0.8352rem;
+  height: 1.1552rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-tib {
+  margin: 0.029rem 0.091rem 0rem 0rem;
+  width: 0.776rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-ceb {
+  margin: 0rem 0.063rem 0.32rem 0rem;
+  width: 0.4992rem;
+  height: 1.184rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-MMH {
+  margin: 0rem 0.096rem 0.2rem 0rem;
+  width: 0.4992rem;
+  height: 1.064rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-gPZ {
+  margin: 0.029rem 0.075rem 0rem 0rem;
+  width: 1.2384rem;
+  height: 0.8352rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-QqM {
+  margin: 0.029rem 0.166rem 0rem 0rem;
+  width: 0.7872rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-k8X {
+  margin: 0.029rem 0.086rem 0rem 0rem;
+  width: 0.4784rem;
+  height: 0.8352rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-5gb {
+  margin: 0.029rem 0.571rem 0rem 0rem;
+  width: 0.768rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-1aF {
+  margin: 0rem 0.146rem 0.253rem 0rem;
+  width: 0.888rem;
+  height: 1.1168rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-Y4P {
+  margin: 0.029rem 0.067rem 0rem 0rem;
+  width: 0.768rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-54K {
+  margin: 0.029rem 0.068rem 0rem 0rem;
+  width: 0.8016rem;
+  height: 0.8352rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-c4F {
+  margin: 0.029rem 0.18rem 0rem 0rem;
+  width: 0.768rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-Xwu {
+  margin: 0rem 0.099rem 0.32rem 0rem;
+  width: 0.3152rem;
+  height: 1.184rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-4S3 {
+  margin: 0.029rem 0.182rem 0rem 0rem;
+  width: 0.776rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-PjD {
+  margin: 0.33rem 0.134rem 0rem 0rem;
+  width: 0.7696rem;
+  height: 1.1744rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-jYB {
+  margin: 0.029rem 0.18rem 0rem 0rem;
+  width: 0.768rem;
+  height: 0.8736rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-UEs {
+  margin: 0.029rem 0.502rem 0rem 0rem;
+  width: 0.4784rem;
+  height: 0.8352rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-oY3 {
+  margin: 0rem 0.556rem 0.11rem 0rem;
+  width: 0.4576rem;
+  height: 0.2032rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-8aK {
+  margin: 0rem 0.169rem 0.253rem 0rem;
+  width: 0.5072rem;
+  height: 1.1168rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .software-developer-ii-623 .vector-rmD {
+  margin-bottom: 0.2528rem;
+  width: 0.5072rem;
+  height: 1.1168rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-14jy-yCK .group-33-Pm9 {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 0.133rem 0rem 0.133rem 0.133rem;
+  height: 1.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .outline-workoutline-24px-SDd {
+  margin: 0rem 0.401rem 0.067rem 0rem;
+  width: 1.3333rem;
+  height: 1.2667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h {
+  margin: 0.147rem 3.121rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-vo1 {
+  margin: 0rem 0.149rem 0.185rem 0rem;
+  width: 0.3648rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-eyu {
+  margin: 0.014rem 0.169rem 0rem 0rem;
+  width: 0.5148rem;
+  height: 0.6384rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-zH5 {
+  margin: 0.014rem 0.127rem 0rem 0rem;
+  width: 0.5148rem;
+  height: 0.6384rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-iym {
+  margin: 0.029rem 0.048rem 0rem 0rem;
+  width: 0.5736rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-s5y {
+  margin: 0.029rem 0.042rem 0rem 0rem;
+  width: 0.5808rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-nyd {
+  margin: 0.029rem 0.074rem 0rem 0rem;
+  width: 0.576rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-w5q {
+  margin: 0.029rem 0.063rem 0rem 0rem;
+  width: 0.5292rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-4AT {
+  margin: 0.029rem 0.064rem 0rem 0rem;
+  width: 0.5292rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-PiX {
+  margin: 0.029rem 0.133rem 0rem 0rem;
+  width: 0.564rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-XJw {
+  margin: 0.029rem 0.309rem 0rem 0rem;
+  width: 0.3432rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-GGX {
+  margin: 0rem 0.108rem 0.185rem 0rem;
+  width: 0.7416rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-oXM {
+  margin: 0.014rem 0.124rem 0rem 0rem;
+  width: 0.5148rem;
+  height: 0.6384rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-jvo {
+  margin: 0.029rem 0.116rem 0rem 0rem;
+  width: 0.576rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-sn7 {
+  margin: 0rem 0.024rem 0.235rem 0rem;
+  width: 0.2172rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-bTD {
+  margin: 0.269rem 0.033rem 0rem 0rem;
+  width: 0.588rem;
+  height: 0.864rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-vVV {
+  margin: 0rem 0.118rem 0.142rem 0rem;
+  width: 0.3588rem;
+  height: 0.7944rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-re3 {
+  margin: 0rem 0.121rem 0.24rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-PP5 {
+  margin: 0.029rem 0.105rem 0rem 0rem;
+  width: 0.5292rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-XEP {
+  margin: 0.5rem 0.161rem 0rem 0rem;
+  width: 0.1752rem;
+  height: 0.1812rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-4k7 {
+  margin: 0.5rem 0.161rem 0rem 0rem;
+  width: 0.1752rem;
+  height: 0.1812rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .innovaccer-analytic-M5h .vector-1QT {
+  margin-top: 0.5004rem;
+  width: 0.1752rem;
+  height: 0.1812rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .outline-locationon-24px-kN3 {
+  margin-right: 0.6365rem;
+  width: 0.9333rem;
+  height: 1.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb {
+  margin: 0.174rem 0rem 0.101rem 0rem;
+  height: calc(100% - 0.2749rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-npX {
+  margin: 0rem 0.143rem 0.11rem 0rem;
+  width: 0.6504rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-L5M {
+  margin: 0.103rem 0.122rem 0rem 0rem;
+  width: 0.5736rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-sLB {
+  margin: 0rem 0.126rem 0.166rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-zvb {
+  margin: 0rem 0.129rem 0.146rem 0rem;
+  width: 0.5604rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-YBR {
+  margin: 0.103rem 0.081rem 0rem 0rem;
+  width: 0.576rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-sUb {
+  margin: 0.726rem 0.413rem 0rem 0rem;
+  width: 0.2148rem;
+  height: 0.3324rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-cSB {
+  margin: 0rem 0.149rem 0.11rem 0rem;
+  width: 0.3648rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-Mef {
+  margin: 0.089rem 0.132rem 0rem 0rem;
+  width: 0.5148rem;
+  height: 0.6384rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-6s9 {
+  margin: 0rem 0.163rem 0.146rem 0rem;
+  width: 0.5604rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-3Gb {
+  margin: 0rem 0.117rem 0.166rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-49-wGs .noida-india-gWb .vector-PLT {
+  margin-top: 0.1032rem;
+  width: 0.576rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.23rem 10.571rem 0.94rem 10.547rem;
+  width: 100%;
+  height: 3.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-2-stroke.png');
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-bBd {
+  margin: 0rem 0.123rem 0.198rem 0rem;
+  width: 0.819rem;
+  height: 0.9074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-8ST {
+  margin: 0.276rem 0.154rem 0rem 0rem;
+  width: 0.6253rem;
+  height: 0.9542rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-s99 {
+  margin: 0.276rem 0.154rem 0rem 0rem;
+  width: 0.6253rem;
+  height: 0.9542rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-ChD {
+  margin: 0rem 0.033rem 0.252rem 0rem;
+  width: 0.2561rem;
+  height: 0.962rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-FQb {
+  margin: 0.291rem 0.371rem 0rem 0rem;
+  width: 0.6565rem;
+  height: 0.9386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-wYK {
+  margin: 0.031rem 0.148rem 0rem 0rem;
+  width: 0.6305rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-4sq {
+  margin: 0.016rem 0.429rem 0rem 0rem;
+  width: 0.5798rem;
+  height: 0.6942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-Cz3 {
+  margin: 0rem 0.116rem 0.198rem 0rem;
+  width: 0.6864rem;
+  height: 0.9074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-jj5 {
+  margin: 0rem 0.179rem 0.26rem 0rem;
+  width: 0.195rem;
+  height: 0.9698rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-saP {
+  margin: 0.016rem 0.139rem 0rem 0rem;
+  width: 0.9698rem;
+  height: 0.6942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-DPM {
+  margin: 0.031rem 0.088rem 0rem 0rem;
+  width: 0.624rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-keB {
+  margin: 0.031rem 0.043rem 0rem 0rem;
+  width: 0.5603rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-J9u {
+  margin: 0rem 0.133rem 0rem 0rem;
+  width: 0.2847rem;
+  height: 1.2298rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-F59 {
+  margin: 0.031rem 0.148rem 0rem 0rem;
+  width: 0.6305rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-nqm {
+  margin: 0rem 0.096rem 0.237rem 0rem;
+  width: 0.6253rem;
+  height: 0.9776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .group-423-8oq .apply-on-timesjobs-rzj .vector-vwy {
+  margin-top: 0.0312rem;
+  width: 0.5603rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s {
+  margin-right: 0.2rem;
+  width: calc(100% - 0.2rem);
+  height: 3.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .rectangle-310-oF5 {
+  width: 3.7rem;
+  height: 3.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-310-bg.png');
+  border-radius: 1.85rem;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 0rem 1.234rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 {
+  margin: 0.438rem 13.228rem 0.486rem 0rem;
+  width: 7.4378rem;
+  height: calc(100% - 0.9236rem);
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 {
+  margin-bottom: 0.5472rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-WHu {
+  margin: 0rem 0.152rem 0.191rem 0rem;
+  width: 0.5733rem;
+  height: 0.9217rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-ShM {
+  margin: 0.023rem 0.089rem 0rem 0rem;
+  width: 0.6305rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-Nqu {
+  margin: 0.023rem 0.101rem 0rem 0rem;
+  width: 0.5603rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-7Hh {
+  margin: 0.023rem 0.146rem 0rem 0rem;
+  width: 0.624rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-Et7 {
+  margin: 0.268rem 0.154rem 0rem 0rem;
+  width: 0.6253rem;
+  height: 0.9542rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-mt3 {
+  margin: 0rem 0.463rem 0.26rem 0rem;
+  width: 0.5798rem;
+  height: 0.962rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-K8s {
+  margin: 0rem 0.188rem 0.205rem 0rem;
+  width: 0.7657rem;
+  height: 0.9386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-3qZ {
+  margin: 0.023rem 0.06rem 0rem 0rem;
+  width: 0.3887rem;
+  height: 0.6786rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-nYF {
+  margin: 0.023rem 0.04rem 0rem 0rem;
+  width: 0.6396rem;
+  height: 0.7098rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .joseph-gray-n71 .vector-8MD {
+  margin-top: 0.2834rem;
+  width: 0.6565rem;
+  height: 0.9386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX {
+  margin-left: 0.0202rem;
+  display: flex;
+  align-items: flex-end;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX .vector-hHq {
+  margin: 0rem 0.128rem 0.014rem 0rem;
+  width: 0.624rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX .vector-2qu {
+  margin: 0rem 0.162rem 0rem 0rem;
+  width: 0.1752rem;
+  height: 0.1812rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX .vector-a6j {
+  margin: 0rem 0.17rem 0.014rem 0rem;
+  width: 0.5676rem;
+  height: 0.8376rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX .vector-WFH {
+  margin: 0rem 0.311rem 0.014rem 0rem;
+  width: 0.552rem;
+  height: 0.888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX .vector-r4F {
+  margin: 0rem 0.098rem 0.014rem 0rem;
+  width: 0.5808rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX .vector-PZy {
+  margin: 0rem 0.133rem 0.014rem 0rem;
+  width: 0.1548rem;
+  height: 0.8928rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX .vector-8Gf {
+  margin-right: 0.0765rem;
+  width: 0.564rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX .vector-H9Z {
+  margin: 0rem 0.066rem 0.014rem 0rem;
+  width: 0.8964rem;
+  height: 0.624rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-73-rj9 .k-views-ZSX .vector-E4o {
+  width: 0.5004rem;
+  height: 0.6528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-83-nMD {
+  box-sizing: border-box;
+  padding: 1.05rem 0.943rem 1.056rem 1.025rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-3fV.png');
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-83-nMD .baseline-share-24px-iVm {
+  margin-right: 0.6754rem;
+  width: 1.35rem;
+  height: 1.494rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .auto-group-245m-SRM .auto-group-wdao-f8s .auto-group-ywxb-vqV .group-83-nMD .share-4Zd {
+  margin-top: 0.1324rem;
+  width: 3.0071rem;
+  height: 0.9024rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-long-HTV .rectangle-311-ZFV {
+  opacity: 0.8;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(241, 243, 245, 0.8000000119);
+  flex-shrink: 0;
+}

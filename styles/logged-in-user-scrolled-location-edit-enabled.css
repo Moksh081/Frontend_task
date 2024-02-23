@@ -1,0 +1,1504 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.logged-in-user-scrolled-location-edit-enabled-moM {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK {
+  width: 69.2rem;
+  height: 175.1rem;
+  position: absolute;
+  left: 20rem;
+  top: 0;
+  row-gap: 1.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e0e0e0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .rectangle-5-Vcs {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 22rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-D5h.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .article-C1V {
+  margin-left: 2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2999999788;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .article-C1V .article-C1V-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .article-C1V .article-C1V-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR {
+  box-sizing: border-box;
+  padding: 1.1rem 2rem 2rem 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-cidu-9UT {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-cidu-9UT .what-if-famous-brands-had-regular-fonts-meet-regulabrands-5d1 {
+  margin-right: 14.7rem;
+  max-width: 47.7rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3416666551;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-cidu-9UT .group-3-jSf {
+  margin-top: 0.1rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .ive-worked-in-ux-for-the-better-part-of-a-decade-from-now-on-i-plan-to-rei-rXH {
+  margin: 0rem 0.1rem 3.1rem 0rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.3416666734;
+  color: #5b5b5b;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-brek-vn3 {
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-brek-vn3 .rectangle-3-UHm {
+  margin-right: 1rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-brek-vn3 .sarthak-kamra-bdH {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-brek-vn3 .auto-group-tmcb-XWw {
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 0.6rem 29.275rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-brek-vn3 .auto-group-tmcb-XWw .group-TQb {
+  margin: 0.9rem 4rem 0.8rem 0rem;
+  height: calc(100% - 1.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-brek-vn3 .auto-group-tmcb-XWw .group-TQb .icon-action-visibility24px-zfR {
+  margin: 0rem 0.875rem 0.1rem 0rem;
+  width: 1.65rem;
+  height: 1.125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-brek-vn3 .auto-group-tmcb-XWw .group-TQb .k-views-unP {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #525252;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-rhio-9J7 .auto-group-vevm-3RR .auto-group-brek-vn3 .auto-group-tmcb-XWw .group-2-T3D {
+  width: 4.2rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e0e0e0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .rectangle-5-6by {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 22rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-kbR.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .education-oWP {
+  margin-left: 2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2999999788;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .education-oWP .education-oWP-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .education-oWP .education-oWP-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB {
+  box-sizing: border-box;
+  padding: 1.1rem 2rem 2rem 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-zn87-rsy {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-zn87-rsy .tax-benefits-for-investment-under-national-pension-scheme-launched-by-government-Cwq {
+  margin-right: 9.8rem;
+  max-width: 52.6rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3454545628;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-zn87-rsy .baseline-morevert-24px-JV5 {
+  margin-top: 0.1rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .ive-worked-in-ux-for-the-better-part-of-a-decade-from-now-on-i-plan-to-rei-Drw {
+  margin: 0rem 0.1rem 3.1rem 0rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.3416666734;
+  color: #5b5b5b;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-jjnt-G4X {
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-jjnt-G4X .rectangle-3-zFR {
+  margin-right: 1rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-jjnt-G4X .sarah-west-VCB {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-jjnt-G4X .auto-group-ssns-oyZ {
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 0.6rem 32.175rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-jjnt-G4X .auto-group-ssns-oyZ .group-7DZ {
+  margin: 0.9rem 4rem 0.8rem 0rem;
+  height: calc(100% - 1.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-jjnt-G4X .auto-group-ssns-oyZ .group-7DZ .icon-action-visibility24px-REF {
+  margin: 0rem 0.875rem 0.1rem 0rem;
+  width: 1.65rem;
+  height: 1.125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-jjnt-G4X .auto-group-ssns-oyZ .group-7DZ .k-views-wCb {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #525252;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-g7xs-M8b .auto-group-hksf-8SB .auto-group-jjnt-G4X .auto-group-ssns-oyZ .group-21-Gkf {
+  width: 4.2rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf {
+  width: 100%;
+  height: 77.5rem;
+  position: relative;
+  border: solid 0.1rem #e0e0e0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-422-tn3 {
+  width: 65.2rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 35.2rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.4040000622;
+  color: #e56135;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.07rem #a9aeb8;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-53-KMZ {
+  width: 35.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 31.6rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-53-KMZ .baseline-today-24px-Sh5 {
+  margin-right: 0.4rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-53-KMZ .fri-12-oct-2018-Naj {
+  margin-right: 6.6rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-53-KMZ .outline-locationon-24px-VvF {
+  margin-right: 0.4rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-53-KMZ .ahmedabad-india-pxX {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .baseline-morevert-24px-yKd {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.4rem;
+  top: 27.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .meetup-uUB {
+  width: 7.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 24rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2999999788;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .meetup-uUB .meetup-uUB-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .meetup-uUB .meetup-uUB-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .finance-investment-elite-social-mixer-lujiazui-RL3 {
+  width: 50.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2rem;
+  top: 27.5rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .rectangle-5-KAX {
+  width: 69.2rem;
+  height: 22rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-wTV.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-52-RzF {
+  width: 16rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 42.2rem;
+  display: flex;
+  align-items: center;
+  border-radius: 2.4rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-52-RzF .rectangle-3-a6T {
+  margin-right: 1rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-52-RzF .ronal-jones-ueX {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-qYB {
+  width: 9.425rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 49.575rem;
+  top: 43.7rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-qYB .icon-action-visibility24px-Zyy {
+  margin: 0rem 0.875rem 0.1rem 0rem;
+  width: 1.65rem;
+  height: 1.125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-qYB .k-views-6DD {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #525252;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .rectangle-4-E4X {
+  width: 69.2rem;
+  height: 26.9rem;
+  position: absolute;
+  left: 0;
+  top: 50.6rem;
+  border: solid 0.1rem #e0e0e0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-XZR {
+  width: 9.425rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 49.575rem;
+  top: 72.2rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-XZR .icon-action-visibility24px-GG7 {
+  margin: 0rem 0.875rem 0.1rem 0rem;
+  width: 1.65rem;
+  height: 1.125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-XZR .k-views-ygK {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #525252;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .baseline-morevert-24px-XC3 {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.4rem;
+  top: 56.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .job-3gB {
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 52.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .software-developer-MRy {
+  width: 20.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 2rem;
+  top: 56.1rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3454545628;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .rectangle-3-sQK {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 70.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .joseph-gray-oYs {
+  width: 10.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 71.9rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-54-KGK {
+  width: 39.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 60.3rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-54-KGK .outline-workoutline-24px-Srj {
+  margin-right: 0.4rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-54-KGK .innovaccer-analytics-private-ltd-nfh {
+  margin-right: 4rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-54-KGK .outline-locationon-24px-6wH {
+  margin-right: 0.4rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-54-KGK .noida-india-Lqd {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-42-Ugw {
+  width: 65rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 63.9rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.4040000622;
+  color: #02b875;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.07rem #a9aeb8;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-22-KhZ {
+  width: 4.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 63rem;
+  top: 42.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-23-4QF {
+  width: 4.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 63rem;
+  top: 71.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-6-zoh {
+  width: 16rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 51.2rem;
+  top: 30.8rem;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.0799999982), 0 0.2rem 0.8rem rgba(0, 0, 0, 0.1599999964);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-6-zoh .group-3-XYj {
+  box-sizing: border-box;
+  padding: 0.7rem 1.2rem 0.6rem 1.2rem;
+  width: 16rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(0, 0, 0, 0);
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-6-zoh .group-4-zBR {
+  box-sizing: border-box;
+  padding: 0.7rem 1.2rem 0.6rem 1.2rem;
+  width: 16rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(0, 0, 0, 0);
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-6-zoh .group-5-4BH {
+  box-sizing: border-box;
+  padding: 0.7rem 1.2rem 0.6rem 1.2rem;
+  width: 16rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 6.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(0, 0, 0, 0);
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P {
+  width: 69.2rem;
+  height: 49rem;
+  position: absolute;
+  left: 0;
+  top: 21rem;
+  border: solid 0.1rem #e0e0e0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .rectangle-5-QPZ {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 22rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-YaK.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .meetup-ubD {
+  margin-left: 2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2999999788;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .meetup-ubD .meetup-ubD-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .meetup-ubD .meetup-ubD-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH {
+  box-sizing: border-box;
+  padding: 1.1rem 2rem 2rem 2rem;
+  width: 100%;
+  height: 22.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .auto-group-z4yu-aas {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .auto-group-z4yu-aas .finance-investment-elite-social-mixer-lujiazui-vud {
+  margin-right: 11.5rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .auto-group-z4yu-aas .baseline-morevert-24px-rYP {
+  margin-top: 0.1rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-53-ysu {
+  margin-bottom: 1.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-53-ysu .baseline-today-24px-vo9 {
+  margin-right: 0.4rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-53-ysu .fri-12-oct-2018-TYB {
+  margin-right: 6.6rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-53-ysu .outline-locationon-24px-bPV {
+  margin-right: 0.4rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-53-ysu .ahmedabad-india-vwZ {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-422-UTH {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  height: 3.8rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.4040000622;
+  color: #e56135;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.07rem #a9aeb8;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-52-LVV {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-52-LVV .rectangle-3-h59 {
+  margin-right: 1rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-52-LVV .ronal-jones-pvT {
+  margin-right: 39.775rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-52-LVV .icon-action-visibility24px-y2f {
+  margin-right: 0.875rem;
+  width: 1.65rem;
+  height: 1.125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-7-GEK .auto-group-4cpy-Zzf .group-56-56P .auto-group-anq7-GKH .group-52-LVV .k-views-hUT {
+  margin-top: 0.1rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #525252;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .rectangle-MZ1 {
+  width: 144rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  background-color: #ffffff;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .rectangle-VQK {
+  width: 144rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-64-ovo {
+  width: 17.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 106.2rem;
+  top: 1.8rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-64-ovo .rectangle-6-8y5 {
+  margin-right: 1.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-64-ovo .siddharth-goyal-fy1 {
+  margin: 0.1rem 0.7rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-64-ovo .baseline-arrowdropdown-24px-zkP {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .whole-vtw {
+  width: 16.2578rem;
+  height: 2.4006rem;
+  position: absolute;
+  left: 7.1994rem;
+  top: 2.3994rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-29-fbd {
+  box-sizing: border-box;
+  padding: 1rem 6.8rem 1rem 1.4rem;
+  width: 36rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 54rem;
+  top: 1.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #f2f2f2;
+  border-radius: 2.1rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-29-fbd .group-28-Zwu {
+  margin-right: 1.4rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-29-fbd .search-for-your-favorite-groups-in-atg-7iX {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #5b5b5b;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .line-24o {
+  width: 104rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 20rem;
+  top: 14rem;
+  background-color: #e0e0e0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .line-Mcs {
+  width: 129.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 8.4rem;
+  background-color: rgba(224, 224, 224, 0);
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .line-2-tco {
+  width: 9.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 20rem;
+  top: 14rem;
+  background-color: #000000;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-34-pWT {
+  width: 35.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 20rem;
+  top: 9.9rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-34-pWT .all-posts32-WeB {
+  margin-right: 2.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-34-pWT .article-qwM {
+  margin-right: 2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #898989;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-34-pWT .event-yXm {
+  margin-right: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #898989;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-34-pWT .education-iVM {
+  margin-right: 2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #898989;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-34-pWT .job-FkB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #898989;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-57-Q7H {
+  box-sizing: border-box;
+  padding: 0.7rem 1rem;
+  width: 13.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 110.6rem;
+  top: 9.2rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.08rem #979899;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-57-Q7H .outline-exittoapp-24px-hs5 {
+  margin-right: 0.6rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-57-Q7H .leave-group-Es1 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #696a6b;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-61-9yy {
+  box-sizing: border-box;
+  padding: 0.7rem 0.6rem 0.7rem 1.2rem;
+  width: 13.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 95.7rem;
+  top: 9.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #edeeef;
+  border-radius: 0.4rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-61-9yy .write-a-post-rNb {
+  margin-right: 1rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-61-9yy .baseline-arrowdropdown-24px-CBZ {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .line-3-KX5 {
+  width: 24.3rem;
+  height: 0.04rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 22.5rem;
+  background-color: #b7b7b7;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .enter-your-location-f59 {
+  width: 12.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 101.7rem;
+  top: 19.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .enter-your-location-f59 .enter-your-location-f59-sub-0 {
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .enter-your-location-f59 .enter-your-location-f59-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #808080;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .outline-locationon-24px-2-oKm {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 19.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-42-XFm {
+  width: 23rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 25.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-42-XFm .baseline-erroroutline-24px-TQK {
+  margin: 0.1rem 0.7rem 0rem 0rem;
+  opacity: 0.5;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-42-XFm .your-location-will-help-us-serve-better-and-extend-a-personalised-experience-yNf {
+  max-width: 20.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .baseline-clear-24px-syq {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 121.8rem;
+  top: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd {
+  width: 24rem;
+  height: 25.2rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 34.3rem;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-cjhy-wTu {
+  margin: 0rem 3.1rem 2.3rem 0rem;
+  width: calc(100% - 3.1rem);
+  display: flex;
+  align-items: flex-start;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-cjhy-wTu .twotone-thumbup-24px-sMZ {
+  margin-right: 0.4rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-cjhy-wTu .recommended-groups-nzK {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-gepw-iNB {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-gepw-iNB .rectangle-6-Fsu {
+  margin-right: 1.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-gepw-iNB .leisure-bB5 {
+  margin: 0.1rem 8.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-gepw-iNB .auto-group-caoh-vUF {
+  margin: 0.6rem 0;
+  width: 6rem;
+  height: calc(100% - 1.2rem);
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #edeef0;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-ew6t-oH9 {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-ew6t-oH9 .rectangle-6-wPM {
+  margin-right: 1.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-ew6t-oH9 .activism-5Ef {
+  margin: 0.1rem 7.8rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-ew6t-oH9 .auto-group-z36p-QGw {
+  margin: 0.6rem 0;
+  width: 6rem;
+  height: calc(100% - 1.2rem);
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #edeef0;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-mawh-5dy {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-mawh-5dy .rectangle-6-E15 {
+  margin-right: 1.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-mawh-5dy .mba-N7H {
+  margin: 0.1rem 10.2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-mawh-5dy .auto-group-jicx-Vhh {
+  margin: 0.6rem 0;
+  width: 6rem;
+  height: calc(100% - 1.2rem);
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #edeef0;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-xsud-BKd {
+  width: 100%;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-xsud-BKd .rectangle-6-8Vm {
+  margin-right: 1.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-xsud-BKd .philosophy-TY3 {
+  margin: 0.1rem 6.2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .group-65-cRd .auto-group-xsud-BKd .auto-group-3ppt-naK {
+  margin: 0.6rem 0;
+  width: 6rem;
+  height: calc(100% - 1.2rem);
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #edeef0;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.logged-in-user-scrolled-location-edit-enabled-moM .see-more-53d {
+  width: 6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 117.5rem;
+  top: 64.9rem;
+  text-align: right;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #2f6ce5;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}

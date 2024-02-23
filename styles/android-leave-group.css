@@ -1,0 +1,935 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.android-leave-group-vsy {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.android-leave-group-vsy .group-4-rFq {
+  box-sizing: border-box;
+  padding: 0.7rem 1.2rem 0.7rem 29.7rem;
+  width: 100%;
+  height: 2.4rem;
+  background-color: #f8f9fa;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .group-4-rFq .group-3-AnK {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.android-leave-group-vsy .group-4-rFq .group-3-AnK .rectangle-8DM {
+  margin-right: 1.1rem;
+  width: 1rem;
+  height: 1rem;
+  background-color: #868e96;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .group-4-rFq .group-3-AnK .oval-TmR {
+  margin-right: 0.8rem;
+  width: 1rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .group-4-rFq .group-3-AnK .path-Cyu {
+  width: 1.2rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-rskz-M67 {
+  margin-bottom: 1.4rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.8rem 3.2rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-2-bg-gXH.png');
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.4499999881) -0%, rgba(0, 0, 0, 0.6000000238) 100%);
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-rskz-M67 .auto-group-zsqs-Tew {
+  margin: 0rem 0rem 12.2rem 0.4rem;
+  width: calc(100% - 0.4rem);
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-rskz-M67 .auto-group-zsqs-Tew .icon-navigation-arrowback24px-ydH {
+  margin-right: 22.1rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-rskz-M67 .auto-group-zsqs-Tew .group-5-VrX {
+  width: 8.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.08rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-rskz-M67 .computer-engineering-xEK {
+  margin-bottom: 0.1rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-rskz-M67 .computer-engineers-follow-this-HGb {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-un6j-9Jo {
+  margin: 0rem 1.8rem 2rem 1.6rem;
+  width: calc(100% - 3.4rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-un6j-9Jo .posts368-Fcj {
+  margin: 0.3rem 14.7rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0.014rem;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-un6j-9Jo .group-6-9y1 {
+  box-sizing: border-box;
+  padding: 0.6rem 1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f1f3f5;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-un6j-9Jo .group-6-9y1 .filter-all-tvb {
+  margin: 0.1rem 1.1rem 0rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-un6j-9Jo .group-6-9y1 .baseline-arrowdropdown-24px-21D {
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .rectangle-5-Hxj {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  height: 12rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-SCP.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .article-Cpo {
+  margin-left: 1.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2999999183;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .article-Cpo .article-Cpo-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .article-Cpo .article-Cpo-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #343a40;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD {
+  box-sizing: border-box;
+  padding: 0.6rem 1.8rem 1.8rem 1.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-rpsq-P27 {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-rpsq-P27 .what-if-famous-brands-had-regular-fonts-meet-regulabrands-Xu1 {
+  margin: 0rem 4.1rem 0rem 0rem;
+  max-width: 25.7rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-rpsq-P27 .group-3-q91 {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .ive-worked-in-ux-for-the-better-part-of-a-decade-f-xzK {
+  margin: 0rem 0.4rem 0.5rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #495057;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj {
+  width: 100%;
+  height: 5.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-dqh9-Cdm {
+  box-sizing: border-box;
+  padding: 1.5rem 11.6rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-dqh9-Cdm .rectangle-31-wLT {
+  margin-right: 1.2rem;
+  width: 3.7rem;
+  height: 3.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-dqh9-Cdm .group-7-fGT {
+  margin: 0.2rem 0;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-dqh9-Cdm .group-7-fGT .sarthak-kamra-CXH {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-dqh9-Cdm .group-7-fGT .k-views-8vj {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #495057;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-ghwd-stK {
+  width: 7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-ghwd-stK .group-8-dsV {
+  box-sizing: border-box;
+  padding: 0.9rem 0.8rem;
+  width: 7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #f1f3f5;
+  border-radius: 0.4rem;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-ghwd-stK .group-8-dsV .baseline-share-24px-ZFM {
+  margin-right: 0.4rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-ghwd-stK .group-8-dsV .share-Hx3 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-ghwd-stK .group-6-1t3 {
+  box-sizing: border-box;
+  padding: 1.8rem 1.8rem 1.8rem 1.8rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.0799999982), 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1800000072);
+  background: linear-gradient(180deg, #ff5b5b -0%, #f0568a 100%);
+  border-radius: 2.7rem;
+}
+.android-leave-group-vsy .auto-group-3oc3-YET .auto-group-mf1h-eqD .auto-group-qn8f-ftj .auto-group-ghwd-stK .group-6-1t3 .icon-image-edit24px-jJF {
+  width: 1.8003rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-leave-group-vsy .rectangle-35-9My {
+  margin-bottom: 1.2rem;
+  opacity: 0.8;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(241, 243, 245, 0.8000000119);
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd {
+  width: 65.1rem;
+  height: 32.8rem;
+  position: relative;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .education-cWT {
+  width: 7.6rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 13.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2999999183;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .education-cWT .education-cWT-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .education-cWT .education-cWT-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #343a40;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .tax-benefits-for-investment-under-national-pension-scheme-launched-by-government-VCs {
+  width: 63.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 15.9rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .ive-worked-in-ux-for-the-better-part-of-a-decade-f-NGf {
+  width: 32.2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 23.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #495057;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .rectangle-36-4vB {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .group-31-tPR {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 31.4rem;
+  top: 15.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .group-71-p2B {
+  width: 6.9rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 27.3rem;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .group-71-p2B .sarah-west-wsV {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .group-71-p2B .k-views-tXq {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #495057;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .group-81-Erb {
+  box-sizing: border-box;
+  padding: 0.9rem 0.8rem;
+  width: 7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 27.2rem;
+  top: 27.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #f1f3f5;
+  border-radius: 0.4rem;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .group-81-Erb .baseline-share-24px-kK9 {
+  margin-right: 0.4rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .group-81-Erb .share-gCo {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-t5uk-5Fd .rectangle-5-ooD {
+  width: 36rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-8Py.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.android-leave-group-vsy .rectangle-37-JEB {
+  opacity: 0.8;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(241, 243, 245, 0.8000000119);
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF {
+  width: 38.6rem;
+  height: 37.4rem;
+  position: relative;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .meetup-xpX {
+  width: 6.1rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 14.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2999999183;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .meetup-xpX .meetup-xpX-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .meetup-xpX .meetup-xpX-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #343a40;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .finance-investment-elite-social-mixer-lujiazui-Tuh {
+  width: 37rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 17.1rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-48-kP1 {
+  width: 28rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 22.3rem;
+  display: flex;
+  align-items: center;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-48-kP1 .baseline-today-24px-5RH {
+  margin-right: 0.2rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-48-kP1 .fri-12-oct-2018-pNs {
+  margin-right: 5.4rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  letter-spacing: -0.012rem;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-48-kP1 .outline-locationon-24px-jEw {
+  margin-right: 0.2rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-48-kP1 .ahmedabad-india-s6F {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  letter-spacing: -0.012rem;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-422-zwZ {
+  width: 32.8rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 25.5rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.4040000622;
+  color: #e56135;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.07rem #a9aeb8;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-32-2tF {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 31.4rem;
+  top: 17.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .rectangle-38-y2o {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-72-HJP {
+  width: 7.4rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 31.9rem;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-72-HJP .ronal-jones-pJK {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-72-HJP .views-xfR {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #495057;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-82-7HR {
+  box-sizing: border-box;
+  padding: 0.9rem 0.8rem;
+  width: 7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 27.2rem;
+  top: 31.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #f1f3f5;
+  border-radius: 0.4rem;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-82-7HR .baseline-share-24px-29V {
+  margin-right: 0.4rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .group-82-7HR .share-MSf {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-gfgk-dnF .rectangle-5-HbD {
+  width: 36rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-cqm.png');
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.android-leave-group-vsy .rectangle-39-Af1 {
+  opacity: 0.8;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(241, 243, 245, 0.8000000119);
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 {
+  width: 100%;
+  height: 23.7rem;
+  position: relative;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .job-3Tu {
+  width: 3.6rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2999999183;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .job-3Tu .job-3Tu-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .job-3Tu .job-3Tu-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #343a40;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .software-developer-ii-53D {
+  width: 17.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #000000;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-423-yuH {
+  width: 32.8rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 11.4rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.4040000622;
+  color: #02b875;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.07rem #a9aeb8;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-33-26s {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 31.4rem;
+  top: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .rectangle-310-9hH {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 18rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-73-stB {
+  width: 7.5rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 18.2rem;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-73-stB .joseph-gray-RPu {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-73-stB .k-views-NK9 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #495057;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-83-idu {
+  box-sizing: border-box;
+  padding: 0.9rem 0.8rem;
+  width: 7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 27.2rem;
+  top: 18.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #f1f3f5;
+  border-radius: 0.4rem;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-83-idu .baseline-share-24px-S47 {
+  margin-right: 0.4rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-83-idu .share-B1h {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-49-K7u {
+  width: 24.7rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 8.2rem;
+  display: flex;
+  align-items: center;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-49-K7u .outline-workoutline-24px-FGT {
+  margin-right: 0.2rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-49-K7u .innovaccer-analytic-nGP {
+  margin-right: 2.7rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  letter-spacing: -0.012rem;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-49-K7u .outline-locationon-24px-VwV {
+  margin-right: 0.2rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .auto-group-kmp5-K27 .group-49-K7u .noida-india-dno {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  letter-spacing: -0.012rem;
+  color: #212529;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-leave-group-vsy .rectangle-311-Yes {
+  opacity: 0.8;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(241, 243, 245, 0.8000000119);
+  flex-shrink: 0;
+}
